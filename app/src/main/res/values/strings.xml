@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Random Scripture Generator</string>
+    <string name="description">Click on the button below and a Scripture will be randomly generated. Happy Reading!</string>
+    <string name="button">CLICK FOR SCRIPTURE</string>
+    <string name="scripture">Null</string>
+</resources>
